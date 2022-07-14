@@ -1,6 +1,6 @@
 # FER-VT
-The unofficial implementation of  paper "Facial expression recognition with grid-wise attention and visual transformer"  
-论文Facial expression recognition with grid-wise attention and visual transformer的非官方个人实现。
+The unofficial implementation of  paper "[Facial expression recognition with grid-wise attention and visual transformer](https://doi.org/10.1016/j.ins.2021.08.043)"  
+论文"[Facial expression recognition with grid-wise attention and visual transformer](https://doi.org/10.1016/j.ins.2021.08.043)"的非官方个人实现。
 
 ## Warning
 The code and parameter weights are not given in the original paper. This project is implemented by pytorch according to the method of the paper. It should be noted that after many tests, the results can not reach the accuracy mentioned in the paper, with a difference of about 10% (in the case of applied data enhancement and additional data, of course, it will be lower if not applied, reaching a maximum of 15%). The purpose of this project is only for academic exchange and publicity, and to confirm whether the above problems are caused by my work.  
