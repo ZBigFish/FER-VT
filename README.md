@@ -32,6 +32,9 @@ CK+与RAF-DB数据集可以解压对应部分后直接放入文件夹对应结�
 model：其内存放网络架构模型与训练时要保存的权重。
 
 ## Requirement
+
+Python 3.6+,pytorch 1.0.0+
+
 ```Python
 pip install -r requirements.txt
 ```
